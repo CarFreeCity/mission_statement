@@ -1,5 +1,5 @@
 # mission statement:
-Our mission is to design and implement a sustainable, livable urban environment in which cars are no longer the primary means of transportation. We strive to create a city that prioritizes the health and well-being of its citizens, reduces reliance on fossil fuels, and protects the natural environment. By embracing innovative technologies and urban planning strategies, we aim to create a model for car-free city living that can be replicated around the world.
+Our mission is to design and implement a sustainable, livable urban environment in which cars are no longer the primary means of transportation. We strive to create a city that prioritizes the health and well-being of its citizens, reduces reliance on fossil fuels, and protects the natural environment. By embracing innovative technologies and urban planning strategies, we aim to create an open source model for car-free city living that can be replicated around the world.
 
 # Features of the car free city:
 
