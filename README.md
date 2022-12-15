@@ -18,3 +18,23 @@ Our mission is to design and implement a sustainable, livable urban environment 
 * Ample community space such as public squares with lots of restaurants and shops
 
 * Space for community resources such as: wood shops, metal shops for people to pursue crafts, or facilitate the ability to repair belongings
+
+
+# Our Plan:
+
+**1: Grow our community online:** through producing articles, social media posts, video content and spreading the word online, our goal is to grow this discord to 1000+ active participating members. 
+
+**2: Found a non-profit organization :** The non-profit organization will be used to fund operations of the project including paying for legal and professional services, drafting architectural plans and other expenses of the project. 
+
+**3: Recruit a high calibur board of trustees :**  The purpose of a non-profit board of directors is to provide oversight, guidance, and support to the organization. The board is responsible for setting the overall direction and strategy of the non-profit, as well as ensuring that it is being managed effectively and achieving its goals. The board typically consists of a group of individuals who are passionate about the non-profit's mission and are committed to supporting its work. These individuals may be chosen for their expertise, experience, or connections, and they may serve on a voluntary or paid basis. The board has a variety of responsibilities, including setting policies, approving budgets, hiring and evaluating the performance of the non-profit's staff, and representing the organization to the public.
+
+**4: Identify and work with organizations that are aligned with our mission :** 
+[description to come]
+
+**5: Identify potential build sites :**
+[description to come]
+
+**6: Raise Investment  :**
+[description to come]
+
+**7: [... more to come]  :**
