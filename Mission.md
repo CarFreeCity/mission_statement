@@ -1,4 +1,4 @@
-# mission statement:
+# Mission statement:
 Our mission is to design and implement a sustainable, livable urban environment in which cars are no longer the primary means of transportation. We strive to create a city that prioritizes the health and well-being of its citizens, reduces reliance on fossil fuels, and protects the natural environment. By embracing innovative technologies and urban planning strategies, we aim to create an open source model for car-free city living that can be replicated around the world.
 
 * City size: 500 to 750 acres growing over time to 40,000 to 60,000 residents
@@ -24,7 +24,7 @@ Our mission is to design and implement a sustainable, livable urban environment 
 * Space for community resources such as: wood shops, metal shops for people to pursue crafts, or facilitate the ability to repair belongings
 
 
-# Our Plan:
+# Our plan:
 
 **1: Grow our community online:** through producing articles, social media posts, video content and spreading the word online, our goal is to grow this discord to 1000+ active participating members. 
 
