@@ -42,6 +42,11 @@ Our mission is to design and implement a sustainable, livable urban environment 
 
 # How you can get involved:
 
-* Join the discord to chat with other members of the project and stay up to date [discord channel](https://discord.gg/X9XEdArMK7)
-
-
+* **Join the discord** to chat with other members of the project and stay up to date [discord channel](https://discord.gg/X9XEdArMK7)
+* **volunteer your skills**: we are looking for people who can help us spread the word, here is a little about who we are looking for: 
+  * Writers for our future blog, Medium articles and other outlets
+  * Tiktok content creators
+  * Youtube content creators
+  * Graphic designers
+  * City planning and public policy experts
+  * join the discord to get involved: [discord channel](https://discord.gg/X9XEdArMK7)
