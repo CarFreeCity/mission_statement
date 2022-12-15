@@ -38,3 +38,9 @@ Our mission is to design and implement a sustainable, livable urban environment 
 [description to come]
 
 **7: [... more to come]  :**
+
+
+# How you can get involved:
+
+
+
