@@ -42,6 +42,6 @@ Our mission is to design and implement a sustainable, livable urban environment 
 
 # How you can get involved:
 
-* Join the discord to chat with other members of the project and stay up to date 
+* Join the discord to chat with other members of the project and stay up to date [discord channel](https://discord.gg/X9XEdArMK7)
 
 
