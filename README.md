@@ -1,6 +1,10 @@
 # mission statement:
 Our mission is to design and implement a sustainable, livable urban environment in which cars are no longer the primary means of transportation. We strive to create a city that prioritizes the health and well-being of its citizens, reduces reliance on fossil fuels, and protects the natural environment. By embracing innovative technologies and urban planning strategies, we aim to create an open source model for car-free city living that can be replicated around the world.
 
+* City size: 500 to 750 acres growing over time to 40,000 to 60,000 residents
+* Emphasis on communal spaces that encourage genuine human interactions and personal relationships
+* Open source, created by the community and repeatable by others throughout the world
+
 # Features of the car free city:
 
 * Sufficient density, All areas of city should be accessible by bike or ebike or other last mile vehicle within 15 minutes
