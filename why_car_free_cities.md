@@ -22,3 +22,16 @@ One solution to these problems is to create car-free cities, where cars are eith
 Of course, transitioning to a car-free city would not be easy and would require significant planning and infrastructure changes. For example, public transportation systems would need to be expanded and improved to accommodate the needs of the population. In addition, cycling and pedestrian infrastructure would need to be improved to make these modes of transportation more practical and convenient.
 
 However, the benefits of car-free cities are significant and well worth the effort. By reducing the negative impacts of cars on the environment, health, and social cohesion, car-free cities can create a better, more sustainable, and more livable future for all.
+
+
+# We are a group that plans to build a new car free city
+
+**How you can get involved:**
+Join the discord to chat with other members of the project and stay up to date [discord channel](https://discord.gg/X9XEdArMK7)
+volunteer your skills: we are looking for people who can help us spread the word, here is a little about who we are looking for:
+* Writers for our future blog, Medium articles and other outlets
+* Tiktok content creators
+* Youtube content creators
+* Graphic designers
+* City planning and public policy experts
+* join the discord to get involved: [discord channel](https://discord.gg/X9XEdArMK7)
