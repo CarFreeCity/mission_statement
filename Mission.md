@@ -7,6 +7,8 @@ Our mission is to design and implement a sustainable, livable urban environment 
 
 # Features of the car free city:
 
+* No privately owned automobiles allowed within the city limits, though exceptions will be made in the beginning for emergency services (ambulence, fire truck) and certain logistics (moving, delivery), with the long term goal of phasing these vehicles out as better alternatives are devised
+
 * Sufficient density, All areas of city should be accessible by bike or ebike or other last mile vehicle within 15 minutes
 
 * A focus on creating vibrant, livable communities, with a mix of housing, commercial, and recreational spaces that support social interactions and a sense of belonging.
