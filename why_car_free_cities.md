@@ -1,5 +1,5 @@
 
-#Why car-free cities are better: The benefits of a world without cars
+# Why car-free cities are better: The benefits of a world without cars
 
 Cities are the centers of commerce, culture, and innovation. They are also the places where most of the world's population lives and works. However, cities are also the sources of many of the world's environmental, health, and social problems. One of the biggest contributors to these problems is the car.
 
